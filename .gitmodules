@@ -1,0 +1,3 @@
+[submodule "cs284"]
+	path = cs284
+	url = git://github.com/rorosaurus/cs284.git
