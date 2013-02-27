@@ -1,6 +1,3 @@
 [submodule "cs284"]
 	path = cs284
 	url = git://github.com/rorosaurus/cs284.git
-[submodule "cs347"]
-	path = cs347
-	url = git://github.com/rorosaurus/cs347.git
